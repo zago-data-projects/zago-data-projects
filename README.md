@@ -17,8 +17,8 @@ Gerente de Projetos de TI com 15+ anos de experiência, atualmente em transiçã
 - 💬 [Chatbot FAQ TI](link)
 
 ## 📫 Contato
-- LinkedIn: [Seu LinkedIn]
-- Email: seu.email@gmail.com
+- LinkedIn: https://www.linkedin.com/in/adams-willians-pmp/
+- Email: azagoadams@gmail.com
 
 ---
 *"Combinando experiência em gestão com paixão por dados para criar soluções inovadoras"*
