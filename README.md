@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Olá! Eu sou o Zago
 
-<!--
-**zago-data-projects/zago-data-projects** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## �� Sobre mim
+Gerente de Projetos de TI com 15+ anos de experiência, atualmente em transição para Inteligência Artificial e Ciência de Dados. Apaixonado por transformar dados em insights e otimizar processos através da tecnologia.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- **Linguagens:** Python, Java
+- **Data Science:** Pandas, NumPy, Scikit-learn, Matplotlib, Plotly
+- **Web:** FastAPI, Streamlit
+- **Databases:** SQL, MongoDB
+- **Cloud:** AWS (aprendendo)
+- **Metodologias:** Agile, Scrum, PMBOK
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## �� Projetos em Destaque
+- 🤖 [Automação de Relatórios de Projeto](link)
+- 📈 [Análise Preditiva de Riscos](link)
+- 💬 [Chatbot FAQ TI](link)
+
+## 📫 Contato
+- LinkedIn: [Seu LinkedIn]
+- Email: seu.email@gmail.com
+
+---
+*"Combinando experiência em gestão com paixão por dados para criar soluções inovadoras"*
